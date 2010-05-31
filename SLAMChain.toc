@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Slap Aura Mastery Chain Watch
+## Author: Askunia - EU Zenedar ( Horde ofc ! )
+## SavedVariables: SLAMChainDB
+## Notes: Watch for Aura Mastery use / cooldowns on LK Heroic 25man
+
+SLAMChain.lua
